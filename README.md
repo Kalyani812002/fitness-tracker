@@ -22,19 +22,7 @@ https://github.com/Kalyani812002/fitness-tracker
 * Responsive UI Design
 * Clean Component Structure
 
-📸 Screenshots
 
-Dashboard page
-<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/313c047f-9744-4762-951d-22b626238622" />
-
-Admin page
-<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/5732c5c0-24af-4f35-85d5-325a49fca3e4" />
-
-Product page 
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/aa267c80-40bc-4735-8cdf-84ada622cf9d" />
-
-Login page
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/21d2b1dc-ac83-4c37-9c97-691c446a3c19" />
 
 
 
