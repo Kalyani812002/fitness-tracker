@@ -8,11 +8,11 @@ This project demonstrates **React component architecture, routing, and dynamic U
 
 ## 🚀 Live Demo
 
-[Click here to view Live App](https://fitness-tracker-xyz.netlify.app)
+https://fitness-tracker-eta-one.vercel.app/ hi asel k
 
 ## 📂 GitHub Repository
 
-[Click here to view Code](https://github.com/Kalyani812002/fitness-tracker)
+https://github.com/Kalyani812002/fitness-tracker
 ## 📌 Features
 
 * User Login Page
