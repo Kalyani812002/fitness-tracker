@@ -94,10 +94,15 @@ You can add screenshots of your project UI here.
 Example:
 
 * Home Page
-* Login Page
-* Fitness Tracker Dashboard
+  <img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/72173497-22cd-492e-8fc8-3e1301dce5cd" />
 
----
+* Login Page
+  <img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/61dd6589-768b-48ca-98b4-c5b7a6d3325e" />
+
+* Tracker Page
+
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/76df36ba-cdfb-494e-8b1f-115060a639f8" />
+
 
 ## 📈 Future Improvements
 
