@@ -127,11 +127,7 @@ Example:
 * CSS
 * JavaScript
 * React
-* Angular
-* Java
-* SQL
-* MongoDB
-* Spring
+
 
 📧 Email: [kadamkalyani84@gmail.com](mailto:kadamkalyani84@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/kalyani-kadam52187026b
