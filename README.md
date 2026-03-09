@@ -4,7 +4,8 @@ A modern **Fitness Tracker Web Application** built using **React.js** that allow
 
 This project demonstrates **React component architecture, routing, and dynamic UI development**.
 
----
+
+
 
 ## 🚀 Live Demo
 
@@ -23,7 +24,7 @@ https://github.com/Kalyani812002/fitness-tracker
 * Responsive UI Design
 * Clean Component Structure
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -35,11 +36,11 @@ https://github.com/Kalyani812002/fitness-tracker
 * Git & GitHub
 * VS Code
 
----
+
 
 ## 📂 Project Structure
 
-```
+
 src
  ┣ components
  ┃ ┗ Navbar.js
@@ -49,49 +50,42 @@ src
  ┃ ┗ Tracker.js
  ┣ App.js
  ┣ index.js
-```
 
----
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
 
-```
+
 git clone https://github.com/your-username/fitness-tracker-app.git
-```
+
 
 ### 2️⃣ Navigate to the project folder
 
-```
+
 cd fitness-tracker-app
-```
+
 
 ### 3️⃣ Install dependencies
 
-```
+
 npm install
-```
+
 
 ### 4️⃣ Run the development server
 
-```
+
 npm start
-```
 
 The application will start on:
 
-```
-http://localhost:3000
-```
 
----
+http://localhost:3000
+
 
 ## 📸 Screenshots
 
-You can add screenshots of your project UI here.
 
-Example:
 
 * Home Page
   <img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/72173497-22cd-492e-8fc8-3e1301dce5cd" />
@@ -111,9 +105,7 @@ Example:
 * Workout history tracking
 * Calories and health analytics
 * Charts and progress visualization
-
----
-
+* 
 ## 👩‍💻 Author
 
 **Kalyani Nandlal Kadam**
@@ -132,7 +124,5 @@ Example:
 📧 Email: [kadamkalyani84@gmail.com](mailto:kadamkalyani84@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/kalyani-kadam52187026b
 
----
 
-⭐ If you like this project, consider giving it a **star on GitHub**!
 
