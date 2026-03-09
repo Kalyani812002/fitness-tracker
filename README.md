@@ -8,7 +8,8 @@ This project demonstrates **React component architecture, routing, and dynamic U
 
 ## 🚀 Live Demo
 
-https://fitness-tracker-eta-one.vercel.app/ hi asel k
+https://fitness-tracker-eta-one.vercel.app/
+
 
 ## 📂 GitHub Repository
 
