@@ -8,13 +8,11 @@ This project demonstrates **React component architecture, routing, and dynamic U
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:**
-https://kalyani812002.github.io/fitness-tracker/
+[Click here to view Live App](https://fitness-tracker-xyz.netlify.app)
 
+## 📂 GitHub Repository
 
-🔗 **GitHub Repository:**
-https://github.com/Kalyani812002/fitness-tracker.git
-
+[Click here to view Code](https://github.com/Kalyani812002/fitness-tracker)
 ## 📌 Features
 
 * User Login Page
